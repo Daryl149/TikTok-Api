@@ -17,8 +17,8 @@ To get started using this api follow the instructions below.
 If you need help installing or run into some error, please open an issue. I will try to help out as much as I can.
 
 ```
-pip install TikTokApi
-pyppeteer-install
+pip3 install TikTokApi
+pip3 install pyppeteer
 ```
 
 ## Quick Start Guide
